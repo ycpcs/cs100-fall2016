@@ -24,21 +24,16 @@ Class Times:
 **Email:** <dbabcock@ycp.edu><br>
 **Office:** KEC 101<br>
 **Phone:** (717) 815-6442<br>
-**Office Hours:** M W: 1:00-3:00 PM; 
-                  Tu Th: 8:30-9:30 AM
+**Office Hours:** M 1-3PM; T 8:30-9:30AM; W 8-9AM; R 2-3PM; F 8-9AM; or by appointment
 
 >[Don Hake](http://faculty.ycp.edu/~djhake2/)<br>
 **Email:** <djhake2@ycp.edu><br>
 **Office:** KEC 137<br>
 **Phone:** (717) 815-6587<br>
-**Office Hours:** M:    10:00 AM-Noon;
-                  T Th: 11:00 AM-Noon;
-                  W F:  11:20-11:50 AM, 1:20-1:50 PM
+**Office Hours:** TBD
  
-
+Course Description
 ------------------
-###Course Description
-
 
 This course introduces basic topics in computing.  PC hardware components will be discussed along with assembly of a system.  The students will then install several different operating systems and perform basic network configuration.  A team design project will introduce basic programming structures using a simple scripting language.
 
