@@ -15,4 +15,4 @@ This page contains links to useful resources.
  
  - Download [PyCharm Community Edition](http://www.jetbrains.com/pycharm/)
 
- - [PyGame](http://www.pygame.org/hifi.html) which can be downloaded [here](http://www.pygame.org/download.shtml)
+ - [PyGame](http://www.pygame.org/hifi.html) which can be downloaded [here](http://www.pygame.org/download.shtml) **be sure to install the Python 3 version**
