@@ -19,7 +19,7 @@ All information about the course will be posted here.
 
 ## News
 
-* **Sept 1** - Welcome back!
+* **August 31** - Welcome back!
 
 
 <!--
