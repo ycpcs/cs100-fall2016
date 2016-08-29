@@ -61,12 +61,11 @@ Policies
 
 Your grade in this course will be a weighted average based on the following weights, and assigned on a 100-point scale according to the table below.
 
-  - In class quizzes: **15%**
-  - Reading Lab Assignments:  **10%**
-  - Programming Assignments:  **20%**
-  - Exam #1:  **20%**
-  - Exam #2:  **20%**
-  - Final Project:  **15%**
+  - In class quizzes: **10%**
+  - Lab Activities and Assignments:  **15%**
+  - Exam #1:  **25%**
+  - Exam #2:  **25%**
+  - Final Project:  **25%**
 
 > | Numeric Range | Letter Grade |
 > |---------------|--------------|
@@ -81,6 +80,10 @@ Your grade in this course will be a weighted average based on the following weig
 
 Since the course will primarily be hands-on activities, attendance will be taken at the **beginning** of every class and tardiness will not be allowed.  Each student will be permitted two unexcused absence.  **Each additional unexcused absence will result in a 5% final grade reduction.**
 
+### Quizzes
+
+Quizzes will be given periodically to provide formative assessment of your understanding of the concepts being presented in class. They will be given at the beginning of class. No make-up quizzes will be given without approval of the instructor.
+
 ### Exams
 
 **No make-up exams will be given without approval of the instructor prior to class unless proof of extreme emergency or illness is provided.**  The exams will cover material from the topics covered in class.
@@ -89,7 +92,7 @@ Since the course will primarily be hands-on activities, attendance will be taken
 
 The lab activities are designed to help students develop algorithmic programming skills critical to success in computer science. An important part of these skills includes the ability to recognize and correct errors through good debugging skills. The programming labs will also introduce the various common programming constructs such as variables, decisions, loops, functions, and basic object oriented components through the Python scripting language.  Finally students will undertake a final project to allow them to apply their programming skills learned throughout the course.  The topic will be chosen based on the interests of the students. Further details and topic suggestions will be provided later in the semester.
 
-### Programming Assignments
+### Assignments
 
 Discussing programming assignments with other students is acceptable, and encouraged. However, collaboration **must be more than just copying code**; you must **actively contribute to the collaboration**, and you must **write and understand all of the code you include in your program**. Verbatim copying of someone else's code (including electronic transmission or using code from websites) is forbidden under any circumstances. You must actively contribute to the process of understanding and solving the problem posed in the homework assignment.
 
