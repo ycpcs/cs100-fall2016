@@ -30,7 +30,7 @@ Class Times:
 **Email:** <djhake2@ycp.edu><br>
 **Office:** KEC 137<br>
 **Phone:** (717) 815-6587<br>
-**Office Hours:** M(KEC137) 10:00a-12:00p, W(KEC 123) 11:15a-12:00p, 1:15p-2:00p, R(KEC 137) 11:00a-12:00p, F(KEC 123) 11:15a-12:00p, 1:15p-2:00p, or by appointment
+**Office Hours:** M(KEC137) 10:00a-12:00p, WF(KEC 123) 11:15a-12:00p, 1:15p-2:00p, R(KEC 137) 11:00a-12:00p, or by appointment
  
 Course Description
 ------------------
