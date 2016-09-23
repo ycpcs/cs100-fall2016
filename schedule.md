@@ -11,7 +11,7 @@ Additional content will be added as it becomes available throughout the semester
 >| **Date**       | **Topic**                                                                                            |  **Assignments**                                                                           |
 >| ---------------|:-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 >| Wed, Aug 31    |  [Syllabus & Introduction to Computer Science](lectures/lecture0_intro.pdf)                          |                                                                                            |
->| Fri, Sept 23   |  [Variable and Expressions](lectures/lecture1_variables_expressions.pdf)                             | [*Think Python*, Chapters 1-2](http://greenteapress.com/thinkpython/thinkpython.html) <br /> [CPADS_Assignment_3.pdf](assign/CPADS_Assignment_3.pdf)     |
+>| Fri, Sept 23   |  [Variable and Expressions](lectures/lecture1_variables_expressions.pdf)                             | [*Think Python*, Chapters 1-2](http://greenteapress.com/thinkpython/thinkpython.html) <br /> [CPADS_Assign1.pdf](assign/CPADS_Assign1.pdf)     |
 
 
 
