@@ -20,7 +20,7 @@ All information about the course will be posted here.
 ## News
 
 * **August 31** - Welcome back!
-* **Sept 28** - [Assignment 1](assign/CPADS_Assignment_1.pdf) due
+* **Sept 28** - [Assignment 1](assign/CPADS_Assign1.pdf) due
 
 
 <!--
