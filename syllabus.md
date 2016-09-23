@@ -30,12 +30,12 @@ Class Times:
 **Email:** <djhake2@ycp.edu><br>
 **Office:** KEC 137<br>
 **Phone:** (717) 815-6587<br>
-**Office Hours:** M 10:00a-12:00p, W 11:15a-12:00p, 1:15p-2:00p, R 11:00a-12:00p, F 11:15a-12:00p, 1:15p-2:00p, or by appointment
+**Office Hours:** M(KEC137) 10:00a-12:00p, WF(KEC 123) 11:15a-12:00p, 1:15p-2:00p, R(KEC 137) 11:00a-12:00p, or by appointment
  
 Course Description
 ------------------
 
-This course introduces basic topics in computing.  PC hardware components will be discussed along with assembly of a system.  The students will then install several different operating systems and perform basic network configuration.  A team design project will introduce basic programming structures using a simple scripting language.
+Introduction course to provide everyone a common knowledge base with regards to programming concepts.  The semester starts with in-class software activities designed to help you develop algorithmic design and problem solving skills.  The middle part of the semester includes in-class programming activities designed to familiarize you with basic programming constructs as well as important debugging techniques.  The last part of the semester includes a design and development project involving one or two people that will introduce basic programming structures using a simple scripting language.
 
 
 **Prerequisites:**	None<br>
