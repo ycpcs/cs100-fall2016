@@ -8,7 +8,7 @@ This page links to assignments.
 
 > Assignment                                                                             |     Due     |
 > -------------------------------------------------------------------------------------- | ----------- |
-> [Assignment 1: Computations](CPADS_Assign1.pdf)                                   | **Sept 28** |
+> [Assignment 1: Computations](CPADS_Assign1.pdf)                                        | **Sept 28** |
 
 
 <!--
