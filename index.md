@@ -13,6 +13,7 @@ All information about the course will be posted here.
 
 * [Schedule](schedule.html)
 * [Assignments](assign/index.html)
+* [Lab Activities](labs/index.html)
 * [Resources](resources/index.html)
 * [Syllabus](syllabus.html)
 * [Marmoset server](https://cs.ycp.edu/marmoset)
