@@ -6,6 +6,10 @@ title: Assignments
 
 This page links to assignments.
 
+> Assignment                                                                             |     Due     |
+> -------------------------------------------------------------------------------------- | ----------- |
+> [Assignment 1: Computations](CPADS_Assignment_1.pdf)                                   | **Sept 28** |
+
 
 <!--
 > Assignment                                                                             |     Due     |
