@@ -10,6 +10,7 @@ This page links to lab activities.
 > -------------------------------------------------------------------------------------- | ----------- |
 > [Lab Activity 1: Square Strategy](CPADS_Lab1.pdf)                                      | **Sept 16** |
 > [Lab Activity 2: Square Implementation](CPADS_Lab2.pdf)                                | **Sept 21** |
+> [Lab Activity 3: Loop Exercises](CPADS_Lab3.pdf)                                       | **Sept 30** |
 
 
 <!--
