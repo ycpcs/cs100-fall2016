@@ -9,7 +9,7 @@ This page links to assignments.
 > Assignment                                                                             |     Due     |
 > -------------------------------------------------------------------------------------- | ----------- |
 > [Assignment 1: Computations](CPADS_Assign1.pdf)                                        | **Sept 28** |
-> [Assignment 2: Pyramid](CPADS_Assign1.pdf)                                             | **Oct 12**  |
+> [Assignment 2: Pyramid](CPADS_Assign2.pdf)                                             | **Oct 12**  |
 
 
 <!--
