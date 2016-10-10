@@ -13,7 +13,7 @@ This page links to lab activities.
 > [Lab Activity 3: Loop Exercises](CPADS_Lab3.pdf)                                       | **Sept 30** |
 > [Lab Activity 4: Pyramid Strategy](CPADS_Lab4.pdf)                                     | **Oct 3**   |
 > [Lab Activity 5: Loops and Functions](CPADS_Lab5.pdf)                                  | **Oct 10**  |
-> [Lab 5 - LoopsAndFunctions Python File] (LoopsAndFunctions.py)                         |             |
+> [Lab 5 - LoopsAndFunctions Python File](LoopsAndFunctions.py)                          |             |
 
 <!--
 > Assignment                                                                             |     Due     |
