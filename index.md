@@ -22,7 +22,8 @@ All information about the course will be posted here.
 
 * **August 31** - Welcome back!
 * **Sept 28** - [Assignment 1](assign/CPADS_Assign1.pdf) due
-* **Oct 12** - [Assignment 1](assign/CPADS_Assign1.pdf) due
+* **Oct 12** - [Assignment 2](assign/CPADS_Assign2.pdf) due
+* **Oct 21, 24 - EXAM I**
 
 
 <!--
