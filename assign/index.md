@@ -9,7 +9,7 @@ This page links to assignments.
 > Assignment                                                                             |     Due     |
 > -------------------------------------------------------------------------------------- | ----------- |
 > [Assignment 1: Computations](CPADS_Assign1.pdf)                                        | **Sept 28** |
-> [Assignment 2: Pyramid](CPADS_Assign2.pdf)  <br> [drawPyramidWithSquares Solution](cs100_assign02_drawPyramidWithSquares_solution.py) <br> [drawPyramidWithEquTriangles Solution](cs100_assign02_drawPyramidWithEquTriangles_solution.py)                        | **Oct 12**  |
+> [Assignment 2: Pyramid](CPADS_Assign2.pdf)  <br> [drawPyramidWithSquares Solution](cs100_assign02_drawPyramidWithSquares_solution.py) <br> [drawPyramidWithEquiTriangles Solution](cs100_assign02_drawPyramidWithEquiTriangles_solution.py)                       | **Oct 12**  |
 
 
 <!--
