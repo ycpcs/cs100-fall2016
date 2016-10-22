@@ -24,6 +24,7 @@ All information about the course will be posted here.
 * **Sept 28** - [Assignment 1](assign/CPADS_Assign1.pdf) due
 * **Oct 12** - [Assignment 2](assign/CPADS_Assign2.pdf) due
 * **Oct 20** - [Exam 1 Review Solutions](labs/CPADS_Exam1_Review_Solutions.pdf) have been posted
+* **Oct 22** - [drawPyramidWithSquares Solution](cs100_assign02_drawPyramidWithSquares_solution.py) has been posted
 * **Oct 21, 24 - EXAM I**
 
 
