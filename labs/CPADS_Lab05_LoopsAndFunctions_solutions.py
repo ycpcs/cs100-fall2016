@@ -47,7 +47,7 @@ def printSumSquares(n):
 
     sum = 0
     for i in range(n):
-        sum = sum + n**2
+        sum = sum + i**2
     print(sum)
 
 
@@ -134,7 +134,7 @@ def main():
 
     # TODO 4: call the function from TODO 4A that outputs the sum of the
     #         first 'n' squares (from 0 to val - 1)
-    printSquares(val)
+    printSumSquares(val)
 
     # TODO 5: copy the above loop for squares here and modify it to output
     #         the cubes for 0 to val - 1
