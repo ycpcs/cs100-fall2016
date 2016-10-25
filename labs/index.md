@@ -14,6 +14,7 @@ This page links to lab activities.
 > [Lab Activity 4: Pyramid Strategy](CPADS_Lab4.pdf)                                     | **Oct 3**   |
 > [Lab Activity 5: Loops and Functions](CPADS_Lab5.pdf) <br> [Lab 5 - LoopsAndFunctions Python File](LoopsAndFunctions.py) <br> [Lab 5 Solutions - LoopsAndFunctions Python File](CPADS_Lab05_LoopsAndFunctions_solutions.py)                                        | **Oct 10**  |
 > [Exam 1 Review](CPADS_Exam1_Review.pdf) <br> [Exam 1 Review Solutions](CPADS_Exam1_Review_Solutions.pdf) | **Oct 19**  |
+> [Lab Activity 6: Decisions](CPADS_Lab6.pdf)  | **Oct 28**  |
 
 <!--
 > Assignment                                                                             |     Due     |
