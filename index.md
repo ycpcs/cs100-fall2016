@@ -28,7 +28,9 @@ All information about the course will be posted here.
 * **Oct 22** - [drawPyramidWithEquiTriangles Solution](assign/cs100_assign02_drawPyramidWithEquiTriangles_solution.py) has been posted
 * **Oct 22** - [Lab 5 Solutions - LoopsAndFunctions Python File](labs/CPADS_Lab05_LoopsAndFunctions_solutions.py) have been posted
 * **Oct 21, 24 - EXAM I**
-* **Nov 11** - [Assignment 3 - A Bit of Logic](assign/CPADS_Assign3.pdf) due
+* **Nov 11** - [Assignment 3 - Witch Scene Test Cases](assign/CPADS_Assign3_TestCases.pdf) have been posted
+* **Nov 13** - [Assignment 3 - A Bit of Logic](assign/CPADS_Assign3.pdf) due @ 11:59pm
+* **Nov 16, 18 - EXAM II**
 
 
 <!--
