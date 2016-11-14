@@ -30,6 +30,7 @@ All information about the course will be posted here.
 * **Oct 21, 24 - EXAM I**
 * **Nov 11** - [Assignment 3 - Witch Scene Test Cases](assign/CPADS_Assign3_TestCases.pdf) have been posted
 * **Nov 13** - [Assignment 3 - A Bit of Logic](assign/CPADS_Assign3.pdf) due @ 11:59pm
+* **Nov 16** - Your tested, debugged, fixed Assignment 3 is due by the start of class, along with your completed test case document.
 * **Nov 16, 18 - EXAM II**
 
 
