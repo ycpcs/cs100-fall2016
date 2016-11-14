@@ -16,6 +16,7 @@ This page links to lab activities.
 > [Exam 1 Review](CPADS_Exam1_Review.pdf) <br> [Exam 1 Review Solutions](CPADS_Exam1_Review_Solutions.pdf) | **Oct 19**  |
 > [Lab Activity 6: Decisions](CPADS_Lab6.pdf)  | **Oct 28**  |
 > [Lab Activity 7: A Special Halloween Treat](CPADS_Lab7.pdf)  | **Nov 2**  |
+> [Lab Activity 8: Testing the Witch Scene](CPADS_Lab8.pdf) <br> [Witch Scene Test Template Python File](MontyPythonWitchScene_testTemplate.py)  | **Nov 14**  |
 
 <!--
 > Assignment                                                                             |     Due     |
