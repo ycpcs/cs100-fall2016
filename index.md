@@ -34,6 +34,7 @@ All information about the course will be posted here.
 * **Nov 16, 18 - EXAM II**
 * **Nov 20** - [Assignment 3 - Witch Scene solution](assign/MontyPythonWitchScene_solution.py)
 * **Nov 27** - [EXAM II programming portion redo(due by Sunday 11-27-16 @ 11:59pm)](assign/CPADS_Exam2_programming_redo.pdf)
+* **Nov 28** - [Final Project Proposals](assign/CPADS_FinalProject.pdf) due in class
 
 
 <!--
