@@ -1,4 +1,4 @@
----
+--
 layout: default
 course_number: CS100
 title: Assignments
@@ -6,8 +6,8 @@ title: Assignments
 
 This page links to assignments.
 
-> Assignment                                                                                 |     Due     |
-> ------------------------------------------------------------------------------------------ | ----------- |
+> Assignment                                                                             |     Due     |
+> -------------------------------------------------------------------------------------- | ----------- |
 > [Assignment 1: Computations](CPADS_Assign1.pdf)                                            | **Sept 28** |
 > [Assignment 2: Pyramid](CPADS_Assign2.pdf)  <br> [drawPyramidWithSquares Solution](cs100_assign02_drawPyramidWithSquares_solution.py) <br> [drawPyramidWithEquiTriangles Solution](cs100_assign02_drawPyramidWithEquiTriangles_solution.py)   | **Oct 12** |
 > [Assignment 3: A Bit of Logic](CPADS_Assign3.pdf)  <br>  [Monty Python's Witch Scene in Python](MontyPythonWitchScene.py) <br> [Witch Scene Test Cases](CPADS_Assign3_TestCases.pdf) <br> [Witch Scene solution](MontyPythonWitchScene_solution.py) | **Nov 11** |
