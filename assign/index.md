@@ -1,4 +1,4 @@
---
+---
 layout: default
 course_number: CS100
 title: Assignments
