@@ -32,6 +32,7 @@ All information about the course will be posted here.
 * **Nov 13** - [Assignment 3 - A Bit of Logic](assign/CPADS_Assign3.pdf) due @ 11:59pm
 * **Nov 16** - Your tested, debugged, fixed Assignment 3 is due by the start of class, along with your completed test case document.
 * **Nov 16, 18 - EXAM II**
+* **Nov 20** - [Assignment 3 - Witch Scene solution](assign/MontyPythonWitchScene_solution.py)
 * **Nov 27** - [EXAM II programming portion redo(due by Sunday 11-27-16 @ 11:59pm)](assign/CPADS_Exam2_programming_redo.pdf)
 
 
