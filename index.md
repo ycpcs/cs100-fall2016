@@ -35,6 +35,7 @@ All information about the course will be posted here.
 * **Nov 20** - [Assignment 3 - Witch Scene solution](assign/MontyPythonWitchScene_solution.py) posted
 * **Nov 27** - [EXAM II programming portion redo](assign/CPADS_Exam2_programming_redo.pdf) due Sunday, 11-27-16 @ 11:59pm
 * **Nov 28** - [Final Project Proposals](assign/CPADS_FinalProject.pdf) due in class
+* **Nov 28** - [Bridge of Death Final Project Description](assign/CPADS_BoDProject.pdf) has been posted
 
 
 <!--
