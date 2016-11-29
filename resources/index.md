@@ -16,3 +16,5 @@ This page contains links to useful resources.
  - Download [PyCharm Community Edition](http://www.jetbrains.com/pycharm/)
 
  - [PyGame](http://www.pygame.org/hifi.html) which can be downloaded [here](http://www.pygame.org/download.shtml) **be sure to install the Python 3 version**
+ 
+ - [Pygame installation instructions for Windows](https://skellykiernan.wordpress.com/2015/01/04/python-pygame-install/).  If you have already installed Python and PyCharm, you will only need to perform the steps starting with "Installing PyGame".
